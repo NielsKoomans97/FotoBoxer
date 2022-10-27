@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FotoBoxer", "FotoBoxer\FotoBoxer.csproj", "{2D056BBB-DF01-46AF-B91D-013E91A61D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEditor", "ImageEditor\ImageEditor.csproj", "{DCE15C72-EBB6-42ED-8B26-566A0EE90510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D056BBB-DF01-46AF-B91D-013E91A61D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D056BBB-DF01-46AF-B91D-013E91A61D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D056BBB-DF01-46AF-B91D-013E91A61D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D056BBB-DF01-46AF-B91D-013E91A61D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE15C72-EBB6-42ED-8B26-566A0EE90510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE15C72-EBB6-42ED-8B26-566A0EE90510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE15C72-EBB6-42ED-8B26-566A0EE90510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE15C72-EBB6-42ED-8B26-566A0EE90510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB9C69B-10A9-4AA8-ADB2-F6F0D550F45C}
+	EndGlobalSection
+EndGlobal
